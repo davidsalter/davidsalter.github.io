@@ -21,7 +21,7 @@ Before being able to send emails from SES, you need to verify your email address
 
 From the [SES](https://console.aws.amazon.com/ses/home) console, click `Email Addresses` from the menu to be shown the email verification page.  Click the `Verify a New Email Address` button
 
-![Verify Email](/img/posts/verify_email.png)
+![Verify Email](/static/assets/verify_email.png)
 
 
 Enter the email address that you want to send emails from and click the `Verify This Email Address` button.  AWS will then send a email to the specified address to validate that it is reachable and that you own it.  The email will contain a link with in it.  Click on this link to verify the email address.
