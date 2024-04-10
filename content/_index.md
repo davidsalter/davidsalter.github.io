@@ -9,7 +9,8 @@ I first got interested in computing with a ZX81 learning BASIC programming. Sinc
 
 I'm a proponent of testing and quality code, and have written [several books](https://www.packtpub.com/authors/david-salter).
 
+<a href='https://ko-fi.com/K3K5WRLXC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 - Mastodon: https://fosstodon.org/@daves
 - Github: https://github.com/davidsalter
-
 
