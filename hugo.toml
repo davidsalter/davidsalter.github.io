@@ -5,12 +5,12 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "A minimal hugo theme focus on content"
-  author = 'Calvin Tran'
+  description = "A blog about software development and other random thoughts"
+  author = 'David Salter'
 
   [params.comments]
-    enabled = false
-    githubRepo = 'canhtran/maverick'
+    enabled = true
+    githubRepo = 'davidsalter/davidsalter.github.io'
     theme = 'github-light'
 
 
