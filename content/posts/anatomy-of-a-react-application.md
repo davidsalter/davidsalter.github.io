@@ -13,7 +13,7 @@ tags = [
 
 I'm a big fan of [React](https://reactjs.org/) and have been learning it over the past few months. I'm in no way an expert, but am really loving the programming style and the power that I can get from a few lines of code. This article isn't meant to be a tutorial on React, but rather an anatomy of a simple application I've written to practice both React and CSS.
 
-![Running A Java Application As A Service](/static/assets/react.jpg)
+![Anatomy of a React Application](/static/assets/react.jpg)
 
 ## The Application
 
