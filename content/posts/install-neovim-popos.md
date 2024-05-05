@@ -8,7 +8,7 @@ tags = [
     "neovim"
 ]
 +++
-Neovim is a modern VIM based text editor that is gaining populatiry within the developer community. The Pop!_OS apt repositories contain an old version of neovim. This article shows how to build and install the latest stable version of neovim on Pop!_OS.
+Neovim is a modern VIM based text editor that is gaining popularity within the developer community. The Pop!_OS apt repositories contain an old version of Neovim. This article shows how to build and install the latest stable version of Neovim on Pop!_OS.
 
 ![Neovim](/static/assets/Neovim-logo.svg)
 
@@ -40,7 +40,7 @@ I find it best to check out the stable build rather than the daily build as some
 
 ## Build and install
 
-Neovim can be built and installed as a debian package (.deb), this allows it to be easily uninstalled or upgraded at a later date. To build and install, execute the following:
+Neovim can be built and installed as a Debian package (.deb), this allows it to be easily uninstalled or upgraded at a later date. To build and install, execute the following:
 
 ``` sh
 $ make CMAKE_BUILD_TYPE=RelWithDebInfo
@@ -52,7 +52,7 @@ $ sudo dpkg -i nvim-linux64.deb
 
 ## Uninstall
 
-To uninstall Neovim, uninstall the debian package.
+To uninstall Neovim, uninstall the Debian package.
 
 ``` sh
 $ sudo apt remove neovim
